@@ -10,6 +10,14 @@ Welcome to Insightgram's Service Registry - The backbone of our distributed arch
 
 Highlighted component is the Service Registry.
 
+## All Services
+
+- Main Service: https://github.com/princekr0722/Insightgram_Main_Backend_Service
+- Messaging Service: https://github.com/princekr0722/Insightgram_Messaging_Service
+- Service Regstry: https://github.com/princekr0722/Insightgram-Service-Registry
+- API Gateway: https://github.com/princekr0722/Insightgram_API_Gateway
+- Main Web UI: https://github.com/princekr0722/Insightgram-Web_UI
+
 ## Tech Stack
 
 - `Core Java`: Our foundation for logic building, ensuring a robust and modular application.
