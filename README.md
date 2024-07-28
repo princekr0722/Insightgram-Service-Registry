@@ -10,7 +10,7 @@ Welcome to Insightgram's Service Registry - The backbone of our distributed arch
 
 Highlighted component is the Service Registry.
 
-## All Services
+## 🗂️ All Services
 
 - Main Service: https://github.com/princekr0722/Insightgram_Main_Backend_Service
 - Messaging Service: https://github.com/princekr0722/Insightgram_Messaging_Service
